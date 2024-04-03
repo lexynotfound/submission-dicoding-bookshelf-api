@@ -1,0 +1,16 @@
+{
+  "name": "submission-bookshelf-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "raihan",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.2.1",
+    "nanoid": "^3.0.0"
+  }
+}
